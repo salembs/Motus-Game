@@ -1,7 +1,2 @@
 # Motus-Game
-le jeu Motus en mode console. Ce jeu consiste à demander à l’utilisateur de trouver un mot de n lettres choisi au
-hasard par l’ordinateur depuis un fichier texte personnalisé et trié par ordre alphabétique et
-contenant des mots d’une taille commune.
-L’utilisateur doit fournir des mots de n lettres jusqu’à trouver le mot caché, ou l’épuisement
-de ses m essais. Lorsqu’il entre un mot en ligne de commande, le programme indique les
-lettres existantes dans le mot caché et confirme si elles sont au bon endroit ou non.
+The Motus game in console mode. This game consists of asking the user to find a word of n letters randomly chosen by the computer from a custom text file sorted in alphabetical order and containing words of a common length. The user must provide n-letter words until they either find the hidden word or run out of their m attempts. When they enter a word in the command line, the program indicates which letters exist in the hidden word and confirms whether they are in the correct position or not.
